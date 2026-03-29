@@ -5,7 +5,7 @@
     "UserID": "10651226043",
     "Code": "hba8",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   },
   "BWN": {
     "Login": "BWN@hampton.college",
@@ -13,7 +13,7 @@
     "UserID": "3615976008",
     "Code": "72nB",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   },
   "ABY": {
     "Login": "ABY@hampton.college",
@@ -21,7 +21,7 @@
     "UserID": "2",
     "Code": "b27a",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   },
   "EHE": {
     "Login": "EHE@hampton.college",
@@ -29,15 +29,15 @@
     "UserID": "2982842175",
     "Code": "na7A",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   },
   "BWE": {
     "Login": "BWE@hampton.college",
     "Name": "Ben White",
     "UserID": "2391506075",
     "Code": "LAh1",
-    "Permissions": "Senior Leadership".
-    "AccountStatus": "Enabled",
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled"
   },
   "ASH": {
     "Login": "ASH@hampton.college",
@@ -45,7 +45,7 @@
     "UserID": "8878335265",
     "Code": "nh7G",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   },
   "IT": {
     "Login": "IT@hampton.college",
@@ -53,6 +53,6 @@
     "UserID": "4729878040",
     "Code": "password",
     "Permissions": "Senior Leadership",
-    "AccountStatus": "Enabled",
+    "AccountStatus": "Enabled"
   }
 }
