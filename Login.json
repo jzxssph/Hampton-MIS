@@ -4,48 +4,55 @@
     "Name": "Harvy McArthy",
     "UserID": "10651226043",
     "Code": "hba8",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   },
   "BWN": {
     "Login": "BWN@hampton.college",
     "Name": "Braiden Whelan",
     "UserID": "3615976008",
     "Code": "72nB",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   },
   "ABY": {
     "Login": "ABY@hampton.college",
     "Name": "Andrew Buckley",
     "UserID": "2",
     "Code": "b27a",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   },
   "EHE": {
     "Login": "EHE@hampton.college",
     "Name": "Ella Hardie",
     "UserID": "2982842175",
     "Code": "na7A",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   },
   "BWE": {
     "Login": "BWE@hampton.college",
     "Name": "Ben White",
     "UserID": "2391506075",
     "Code": "LAh1",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership".
+    "AccountStatus": "Enabled",
   },
   "ASH": {
     "Login": "ASH@hampton.college",
     "Name": "Arthur Smith",
     "UserID": "8878335265",
     "Code": "nh7G",
-    "Permissions": "Senior Leadership"
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   },
   "IT": {
     "Login": "IT@hampton.college",
     "Name": "Joseph Fernandes",
     "UserID": "4729878040",
-    "Code": "8gnX",
-    "Permissions": "Senior Leadership"
+    "Code": "password",
+    "Permissions": "Senior Leadership",
+    "AccountStatus": "Enabled",
   }
 }
